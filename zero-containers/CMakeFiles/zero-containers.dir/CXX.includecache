@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/code/cpp/tp-note-2/zero-containers/main.cpp
+zero-containers.hpp
+-
+cassert
+-
+
+include/zero-containers.hpp
+algorithm
+-
+vector
+-
+

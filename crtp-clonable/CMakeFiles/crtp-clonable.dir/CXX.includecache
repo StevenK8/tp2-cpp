@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/code/cpp/tp-note-2/crtp-clonable/main.cpp
+crtp-clonable.hpp
+-
+iostream
+-
+memory
+-
+
+include/crtp-clonable.hpp
+memory
+-
+string
+-
+type_traits
+-
+

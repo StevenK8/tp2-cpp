@@ -1,0 +1,3 @@
+/home/ubuntu/code/cpp/tp-note-2/zero-containers/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/code/cpp/tp-note-2/zero-containers/CMakeFiles/edit_cache.dir
+/home/ubuntu/code/cpp/tp-note-2/zero-containers/CMakeFiles/zero-containers.dir

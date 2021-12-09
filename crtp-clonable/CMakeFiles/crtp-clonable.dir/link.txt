@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/crtp-clonable.dir/main.cpp.o -o crtp-clonable 

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ubuntu/code/cpp/tp-note-2/zero-containers",
+  "command": "/usr/bin/c++  -I/home/ubuntu/code/cpp/tp-note-2/zero-containers/include -Wall -Wextra -Werror -Wnull-dereference -Wold-style-cast -Wdouble-promotion -Wshadow -std=gnu++17 -o CMakeFiles/zero-containers.dir/main.cpp.o -c /home/ubuntu/code/cpp/tp-note-2/zero-containers/main.cpp",
+  "file": "/home/ubuntu/code/cpp/tp-note-2/zero-containers/main.cpp"
+}
+]
